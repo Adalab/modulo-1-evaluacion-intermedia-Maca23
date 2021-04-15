@@ -27,6 +27,7 @@
 }
 
 .logo {
+    margin-top: 10px;
     width: 155px;
 }
 
@@ -57,7 +58,7 @@
     }
 
     .logo {
-        padding: 20px 30px;
+        padding: 10px 30px;
     }
 
     .nav {
