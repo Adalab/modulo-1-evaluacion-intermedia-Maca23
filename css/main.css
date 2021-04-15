@@ -13,12 +13,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px;   
+    margin: 10px;
+    text-align: center;   
 }
 
 .nav {
-    display: block;
-    text-align: center;
     padding: 10px 13px;
     word-spacing: 20px;
 }
@@ -46,3 +45,9 @@
     font-size: 30px;
 }
 
+@media all and (min-width: 768px) {
+    .header {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
