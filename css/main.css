@@ -63,4 +63,8 @@
     .nav {
         padding: 10px 45px;
     }
+
+    .title {
+        font-size: 40px;
+    }
 }
